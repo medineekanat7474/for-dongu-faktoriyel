@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\for-dongu-faktoriyel\for-dongu-faktoriyel\obj\Debug\for-dongu-faktoriyel.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\for-dongu-faktoriyel\for-dongu-faktoriyel\obj\Debug\for-dongu-faktoriyel.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\for-dongu-faktoriyel\for-dongu-faktoriyel\obj\Debug\for_dongu_faktoriyel.Form1.resources
+C:\Users\User\source\repos\for-dongu-faktoriyel\for-dongu-faktoriyel\obj\Debug\for_dongu_faktoriyel.Properties.Resources.resources
+C:\Users\User\source\repos\for-dongu-faktoriyel\for-dongu-faktoriyel\obj\Debug\for-dongu-faktoriyel.csproj.GenerateResource.cache
+C:\Users\User\source\repos\for-dongu-faktoriyel\for-dongu-faktoriyel\obj\Debug\for-dongu-faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\for-dongu-faktoriyel\for-dongu-faktoriyel\bin\Debug\for-dongu-faktoriyel.exe.config
+C:\Users\User\source\repos\for-dongu-faktoriyel\for-dongu-faktoriyel\bin\Debug\for-dongu-faktoriyel.exe
+C:\Users\User\source\repos\for-dongu-faktoriyel\for-dongu-faktoriyel\bin\Debug\for-dongu-faktoriyel.pdb
+C:\Users\User\source\repos\for-dongu-faktoriyel\for-dongu-faktoriyel\obj\Debug\for-dongu-faktoriyel.exe
+C:\Users\User\source\repos\for-dongu-faktoriyel\for-dongu-faktoriyel\obj\Debug\for-dongu-faktoriyel.pdb
